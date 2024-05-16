@@ -1,0 +1,1 @@
+# solucion_ecuaciones_grado_n
